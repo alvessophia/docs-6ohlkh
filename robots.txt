@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-iwis2x.pulaucuan.net/sitemap.xml
